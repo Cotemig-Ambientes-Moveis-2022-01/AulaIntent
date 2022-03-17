@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AulaIntent</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueci_minha_senha">Esqueci Minha Senha</string>
+    <string name="definir_nova_senha">Definir Nova Senha</string>
+</resources>
